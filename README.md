@@ -1,3 +1,5 @@
+This repo shows how to detect scroll bar is on the active section on not.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
